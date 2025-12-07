@@ -197,3 +197,5 @@ Distributed under the MIT License.
 - **Backend Development**: Amir Radnia – FastAPI backend, SerialManager, AT command handling
 - **Frontend Development**: Reza Faridi – Dashboard UI, API integration
 - **Systems Integration**: Amir Radnia & Reza Faridi
+- **Co-contribution**: [Faridi1419 - ARMEDIA](https://github.com/Faridi1419/ARMEDIA) – Collaborated on various components and system integration.
+
