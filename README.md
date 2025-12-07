@@ -203,3 +203,7 @@ Distributed under the MIT License.
 - **Frontend Development**: Reza Faridi – Dashboard UI, API integration
 - **Systems Integration**: Amir Radnia & Reza Faridi
 - **Co-contribution**: [Faridi1419 - ARMEDIA](https://github.com/Faridi1419/ARMEDIA) – Collaborated on various components and system integration.
+
+**Screenshot** of the dashboard:
+
+![Dashboard Preview](images/screenshot.png)
